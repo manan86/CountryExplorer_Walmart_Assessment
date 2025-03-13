@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Walmart_Assignment</string>
+    <string name="list_of_countries">List of Countries</string>
+    <string name="search_for_country_name_or_capital">Search for country name or capital</string>
+</resources>
